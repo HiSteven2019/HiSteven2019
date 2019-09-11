@@ -21,6 +21,8 @@
                     <string>1.0.0</string>
                     <key>kind</key>
                     <string>software</string>
+                    <key>subtitle</key>
+                    <string>aaaaaaa</string>
                     <key>title</key>
                     <string>你好世界</string>
                 </dict>
