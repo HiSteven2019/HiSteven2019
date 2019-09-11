@@ -12,6 +12,14 @@
                         <key>url</key>
                         <string>https://histeven2019.github.io/helloworld.ipa</string><!--修改这里-->
                     </dict>
+                    <dict>
+                        <key>kind</key>
+                        <string>display-image</string>
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>
+                        <string>https://www.easyicon.net/api/resizeApi.php?id=1170859&size=72</string>
+                    </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
